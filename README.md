@@ -1,5 +1,5 @@
 # YelkenlerDesktopApp
-07/2017 Yelkenler (Sap-SD module) Desktop Software
+07/2017 Yelkenler Desktop Software (ERP)
 
 ##System prepared according to the needs and requirements of the company.##
 
